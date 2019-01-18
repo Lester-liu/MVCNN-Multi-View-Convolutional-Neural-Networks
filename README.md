@@ -18,11 +18,6 @@ the structure is something like this:
 ![model](https://user-images.githubusercontent.com/10870023/31384689-d171baec-ad74-11e7-985a-ebfdf3c2a2aa.png)
 
 
-## What will be implemented
-
-- ResNext MVCNN
-- Densenet MVCNN
-- Dynamic View CNN
 
 
 [1]: http://vis-www.cs.umass.edu/mvcnn/

@@ -1,3 +1,5 @@
+# This repo is up-dated, and will no longer be developed. Thank you for your interest. If you are still interested, please refer to other modern implementation.
+
 # MVCNN: Multi-view Convolutional Neural Networks for 3D Shape Recognition
 
 It is a pytorch implementation of [Multi-view Convolutional Neural Networks for 3D Shape Recognition ][1]
